@@ -2,6 +2,7 @@ package com.tavisca.workshops.dokumar;
 
 import java.io.BufferedInputStream;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -11,6 +12,9 @@ public class HttpRequestHandler {
         in.read(buffer);
         String data=new String(buffer);
         List<String> strings = Arrays.asList(data.split("\\s+"));
-        return strings;
+        List<String> actualStrings=new ArrayList<>();
+        actualStrings.add(strings.get(0));
+        actualStrings.add(strings.get(1).replace('/',' ').trim());
+        return actualStrings;
     }
 }

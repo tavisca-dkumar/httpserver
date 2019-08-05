@@ -17,9 +17,9 @@ public class ClientHandler implements  Runnable{
     public void run() {
         try {
             HttpRequestHandler request=new HttpRequestHandler();
-            List<String> strings=request.parseRequest(in);
-            String methodName=strings.get(0);
-            String fileName=strings.get(1).replace('/',' ').trim();
+            List<String> actualStrings=request.parseRequest(in);
+            String methodName=actualStrings.get(0);
+            String fileName=actualStrings.get(1);
             if(fileName.isEmpty())
                 fileName="Home.html";
             if(methodName.equals("GET")) {
