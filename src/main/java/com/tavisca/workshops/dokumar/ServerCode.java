@@ -7,14 +7,16 @@ public class ServerCode {
     private ServerSocket serverSocket=null;
     boolean b=true;
     private Socket client;
+    private MyLogger myLogger=new MyLogger();
     public void HttpData() throws IOException, InterruptedException {
-        System.out.println("waiting for client....");
+     //   System.out.println("waiting for client....");
+        myLogger.logMessage("waiting for class");
         serverSocket = new ServerSocket(80);
-
         while(b) {
             try {
                 client = serverSocket.accept();
-                System.out.println("client accepted");
+                //System.out.println("client accepted");
+                myLogger.logMessage("client accepted");
                 ClientHandler newClient= new ClientHandler(client);
                 Thread clientThread = new Thread(newClient);
                 clientThread.start();

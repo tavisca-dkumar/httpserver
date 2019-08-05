@@ -1,0 +1,20 @@
+Aug 05, 2019 3:38:38 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: waiting for class
+Aug 05, 2019 3:38:58 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: client accepted
+Aug 05, 2019 3:38:58 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: DataAndImage.html file is opened
+Aug 05, 2019 3:38:58 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: DataAndImage.html file is closed
+Aug 05, 2019 3:38:58 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: client accepted
+Aug 05, 2019 3:38:58 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: twilight.jpg file is opened
+Aug 05, 2019 3:38:58 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: twilight.jpg file is closed
+Aug 05, 2019 3:38:58 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: client accepted
+Aug 05, 2019 3:38:58 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: fileNotFoundCode.html file is opened
+Aug 05, 2019 3:38:58 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: fileNotFoundCode.html file is closed

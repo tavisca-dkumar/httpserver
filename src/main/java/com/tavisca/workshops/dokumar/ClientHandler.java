@@ -30,9 +30,7 @@ public class ClientHandler implements  Runnable{
             e.printStackTrace();
         }finally {
             try {
-                client.close();
-                in.close();
-                out.close();
+                client.close();in.close();out.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }

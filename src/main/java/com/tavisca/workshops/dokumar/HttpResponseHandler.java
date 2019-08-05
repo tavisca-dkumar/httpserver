@@ -7,7 +7,7 @@ import java.io.IOException;
 public class HttpResponseHandler {
 
     public void sendResponse(String fileName, BufferedOutputStream out) throws IOException {
-        FileHandler fileHandler = new FileHandler();
+        FileHandle fileHandler = new FileHandle();
         byte[] fileData= new byte[0];
         try {
             fileData = fileHandler.fileHandling(fileName);
