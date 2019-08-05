@@ -2,24 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c27c5f0b-5d99-4cf9-940a-64cbcabb854a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tavisca/workshops/dokumar/fileHandleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/tavisca/workshops/dokumar/ClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/tavisca/workshops/dokumar/ClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/tavisca/workshops/dokumar/FileHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/tavisca/workshops/dokumar/HttpResponseHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/tavisca/workshops/dokumar/HttpResponseHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/tavisca/workshops/dokumar/ServerCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/tavisca/workshops/dokumar/ServerCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/ClientHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/FileHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/FileHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/HttpResponseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/HttpResponseHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/MyLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/MyLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/ServerCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/ServerCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/tavisca/workshops/dokumar/MyLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/tavisca/workshops/dokumar/MyLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logFile.log" beforeDir="false" afterPath="$PROJECT_DIR$/logFile.log" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/ServerCode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="45" />
+              <caret line="9" column="45" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/ClientHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/MyLogger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -78,20 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logFile.log">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/tavisca/workshops/dokumar/fileHandleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/HttpRequestHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="214">
+              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,22 +86,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/HttpResponseHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/siva.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/FileHandle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="204">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -163,10 +142,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/ServerCode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/FileHandle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/MyLogger.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tavisca/workshops/dokumar/fileHandleTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="5" />
     <option name="y" value="16" />
     <option name="width" value="1346" />
@@ -211,6 +191,27 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dokumar" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HttpServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpServer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="HttpServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpServer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HttpServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpServer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dokumar" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -241,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.fileHandleTest.isFileHandleReadUnknownFile">
     <configuration name="ServerCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tavisca.workshops.dokumar.ServerCode" />
       <module name="HttpServer.main" />
@@ -255,8 +256,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="fileHandleTest.isFileHandleReadFile" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.tavisca.workshops.dokumar.fileHandleTest.isFileHandleReadFile&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="fileHandleTest.isFileHandleReadUnknownFile" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.tavisca.workshops.dokumar.fileHandleTest.isFileHandleReadUnknownFile&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.fileHandleTest.isFileHandleReadUnknownFile" />
+        <item itemvalue="Gradle.fileHandleTest.isFileHandleReadFile" />
         <item itemvalue="Application.ServerCode" />
       </list>
     </recent_temporary>
@@ -274,11 +317,42 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="fileHandleTest_isFileHandleReadFile - 2019.08.05 at 16h 56m 21s.xml">
+      <configuration name="fileHandleTest.isFileHandleReadFile" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="fileHandleTest_isFileHandleReadFile - 2019.08.05 at 16h 56m 29s.xml">
+      <configuration name="fileHandleTest.isFileHandleReadFile" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="fileHandleTest_isFileHandleReadFile - 2019.08.05 at 16h 58m 23s.xml">
+      <configuration name="fileHandleTest.isFileHandleReadFile" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="fileHandleTest_isFileHandleReadFile - 2019.08.05 at 17h 00m 06s.xml">
+      <configuration name="fileHandleTest.isFileHandleReadFile" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="fileHandleTest_isFileHandleReadFile - 2019.08.05 at 17h 00m 32s.xml">
+      <configuration name="fileHandleTest.isFileHandleReadFile" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="fileHandleTest_isFileHandleReadFile - 2019.08.05 at 17h 01m 08s.xml">
+      <configuration name="fileHandleTest.isFileHandleReadFile" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="fileHandleTest_isFileHandleReadFile - 2019.08.05 at 17h 01m 32s.xml">
+      <configuration name="fileHandleTest.isFileHandleReadFile" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="fileHandleTest_isFileHandleReadFile - 2019.08.05 at 17h 02m 06s.xml">
+      <configuration name="fileHandleTest.isFileHandleReadFile" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="fileHandleTest_isFileHandleReadFile - 2019.08.05 at 17h 02m 40s.xml">
+      <configuration name="fileHandleTest.isFileHandleReadFile" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="fileHandleTest_isFileHandleReadUnknownFile - 2019.08.05 at 17h 07m 13s.xml">
+      <configuration name="fileHandleTest.isFileHandleReadUnknownFile" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -287,7 +361,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2536825" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29296234" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,7 +442,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/ClientHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -378,17 +452,10 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/ServerCode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="45" />
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/FileHandle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -403,6 +470,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tavisca/workshops/dokumar/FileHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/siva.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tavisca/workshops/dokumar/fileHandleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

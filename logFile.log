@@ -18,3 +18,15 @@ Aug 05, 2019 3:38:58 PM com.tavisca.workshops.dokumar.MyLogger logMessage
 INFO: fileNotFoundCode.html file is opened
 Aug 05, 2019 3:38:58 PM com.tavisca.workshops.dokumar.MyLogger logMessage
 INFO: fileNotFoundCode.html file is closed
+Aug 05, 2019 5:01:07 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: siva.txt file is opened
+Aug 05, 2019 5:01:07 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: siva.txt file is closed
+Aug 05, 2019 5:02:05 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: siva.txt file is opened
+Aug 05, 2019 5:02:05 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: siva.txt file is closed
+Aug 05, 2019 5:02:39 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: siva.txt file is opened
+Aug 05, 2019 5:02:39 PM com.tavisca.workshops.dokumar.MyLogger logMessage
+INFO: siva.txt file is closed
